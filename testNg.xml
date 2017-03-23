@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+<suite name="suite1" verbose="1"> 
+<test name="testCase" preserve-order="true">
+<classes>
+	<class name="Project.maven.AppTest">
+	</class>
+</classes>
+</test>
+</suite>

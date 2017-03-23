@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Getting search tab]]>
+    </line>
+    <line>
+      <![CDATA[Typing search value]]>
+    </line>
+  </reporter-output>
+  <suite name="suite1" duration-ms="5216" started-at="2017-03-23T06:14:06Z" finished-at="2017-03-23T06:14:12Z">
+    <groups>
+    </groups>
+    <test name="testCase" duration-ms="5216" started-at="2017-03-23T06:14:06Z" finished-at="2017-03-23T06:14:12Z">
+      <class name="Project.maven.AppTest">
+        <test-method status="PASS" signature="testCase()[pri:0, instance:Project.maven.AppTest@6cc4c815]" name="testCase" duration-ms="5200" started-at="2017-03-23T11:44:06Z" finished-at="2017-03-23T11:44:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Getting search tab]]>
+            </line>
+            <line>
+              <![CDATA[Typing search value]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+      </class> <!-- Project.maven.AppTest -->
+    </test> <!-- testCase -->
+  </suite> <!-- suite1 -->
+</testng-results>
